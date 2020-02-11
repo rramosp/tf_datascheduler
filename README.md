@@ -11,5 +11,5 @@ If it composed of two classes:
     for examples.
     
 
-See the [demo notebook](data schedule demo.ipynb) for further details.
+See the [demo notebook](data_schedule_demo.ipynb) for further details.
 
