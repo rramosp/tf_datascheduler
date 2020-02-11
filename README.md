@@ -2,7 +2,7 @@
 
 combines several datasets according to weights, dynamically during training of a TF model. 
 
-If it composed of two classes:
+It is composed of two classes:
 
 **ScheduleDataset**: It encapsulates the same functionality as tf.data.experimental.sample_from_datasets, but weights are internally represented as tensors so that they are part of the computational graph and can be changed during training with ScheduleDataset_Callback.
 
